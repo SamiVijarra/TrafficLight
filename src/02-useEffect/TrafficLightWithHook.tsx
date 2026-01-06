@@ -1,4 +1,4 @@
-import { useTrafficLight } from "../hooks/useTRafficLight";
+import { useTrafficLight } from "../hooks/useTrafficLight";
 
 
 
