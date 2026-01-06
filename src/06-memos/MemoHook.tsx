@@ -2,6 +2,10 @@ import { useCallback, useState } from "react"
 import { MyTitle } from "./ui/MyTitle"
 import { MySubTitle } from "./ui/MySubTitle"
 
+//const handleMyAPICall = (MyValue: string) => {
+//  console.log('llamar a mi API ' + MyValue);
+//};
+
 
 export const MemoHook = () => {
 
